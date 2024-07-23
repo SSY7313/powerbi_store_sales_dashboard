@@ -1,4 +1,3 @@
-# powerbi_store_sales_dashboard
 
 # SuperStore Sales Analysis and Forecasting
 
