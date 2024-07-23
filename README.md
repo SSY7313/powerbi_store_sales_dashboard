@@ -7,8 +7,6 @@ This repository contains an in-depth analysis of the SuperStore sales dataset, a
 
 The SuperStore sales dataset provides comprehensive information on sales transactions, including details on customers, products, sales, profits, shipping modes, and returns. The primary objectives of this project are to analyze sales performance, understand customer behavior, optimize inventory, and forecast future sales.
 
-![Capture](https://github.com/user-attachments/assets/dfb6480c-f97c-422f-81a6-07513c70d167)
-
 ## Key Analyses Conducted
 
 - step 1: Sales Performance by Region:
@@ -36,6 +34,10 @@ Strategies to optimize inventory and improve sales of underperforming categories
 Investigation of sales trends over various periods to understand seasonal patterns.
 
 Planning of marketing campaigns and inventory management based on these trends.
+
+
+![Capture2](https://github.com/user-attachments/assets/d2699365-0277-4d50-bbaa-c50284b2433b)
+
 
 - step 5: Profit Margin Optimization:
 
