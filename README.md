@@ -87,4 +87,6 @@ Development of a sales forecasting model using historical data.
 
 Aid in decision-making for inventory management, budgeting, and strategic planning.
 
+![Capture4](https://github.com/user-attachments/assets/8695a3a8-4c76-4466-9bce-82a09df0cf27)
+
 
