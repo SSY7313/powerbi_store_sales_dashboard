@@ -23,6 +23,8 @@ Segmentation of customers based on purchasing behavior and demographics.
 
 Development of targeted marketing strategies for each segment.
 
+![Capture1](https://github.com/user-attachments/assets/4949ecc5-3e73-4e14-aaa8-b95f9a29354e)
+
 - step 3: Product Category Analysis:
 
 Analysis of product categories and sub-categories to identify best and least-selling products.
